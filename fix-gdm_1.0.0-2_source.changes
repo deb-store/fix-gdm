@@ -10,16 +10,16 @@ Changed-By: Package Store <kitsune.solar@gmail.com>
 Changes:
  fix-gdm (1.0.0-2) unstable; urgency=medium
  .
-   * Rename "override.conf" to "fix-black-screen.conf".
+   * UPD: Rename "override.conf" to "fix-black-screen.conf".
 Checksums-Sha1:
- aaad53a81b6e9f0d7f018c18b5f1dad3a882c973 977 fix-gdm_1.0.0-2.dsc
- 916bd9f3564b83a82c932aacaae5d5ddada14f68 836 fix-gdm_1.0.0-2.debian.tar.xz
- 69a62ee3df352c4188e89603940685837ea3a3c8 4388 fix-gdm_1.0.0-2_source.buildinfo
+ dbf0cb9e3684b4dadad0894f97474c9626d9b5e7 977 fix-gdm_1.0.0-2.dsc
+ 127ba2232b97d1b696556856d1e15b6d7819bac5 844 fix-gdm_1.0.0-2.debian.tar.xz
+ d09ff3a0862c6e300c675287663898519b0e3eca 4388 fix-gdm_1.0.0-2_source.buildinfo
 Checksums-Sha256:
- ae280a8578d0b23bd104812113f36ed719af390320a9089fbb325f50512b63fc 977 fix-gdm_1.0.0-2.dsc
- aab2bc6298c62e9c4f3e6aa7ff0e96c09253b0e03928ebd4d492a5d50d499404 836 fix-gdm_1.0.0-2.debian.tar.xz
- 760f97a66f7a42b26bd531f4a572a8c1a98129fc6c62d5ccd2350ff87f6c03cd 4388 fix-gdm_1.0.0-2_source.buildinfo
+ d62bd3d290295ddce3cf1ac3fc1846b60c1bcdcaa766ab64d82359855633e86a 977 fix-gdm_1.0.0-2.dsc
+ 4969143e899ef9da3185bf8f0c73c231c2e9a5da46501765c52d6229adfd6ac2 844 fix-gdm_1.0.0-2.debian.tar.xz
+ e9ad65685f223b531dbc159609c4ad2def78bcda35a7cc67aa68a751457c6fbf 4388 fix-gdm_1.0.0-2_source.buildinfo
 Files:
- 8c659d4bda6f521737783142dc499c49 977 gnome optional fix-gdm_1.0.0-2.dsc
- 5315a1df6424d57aad6fb51b52f0fc3a 836 gnome optional fix-gdm_1.0.0-2.debian.tar.xz
- 934c1288138c0367b1ae078a228db7c8 4388 gnome optional fix-gdm_1.0.0-2_source.buildinfo
+ cc0cee21b1863e731e7e3345adcd81a4 977 gnome optional fix-gdm_1.0.0-2.dsc
+ b3c9ab2efbff185c2017c51078131fd8 844 gnome optional fix-gdm_1.0.0-2.debian.tar.xz
+ 38a0f2c747b388c4066683b7b6f46af7 4388 gnome optional fix-gdm_1.0.0-2_source.buildinfo
