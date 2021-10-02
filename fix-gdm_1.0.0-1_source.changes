@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sat, 02 Oct 2021 15:13:03 +0000
+Source: fix-gdm
+Architecture: source
+Version: 1.0.0-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ fix-gdm (1.0.0-1) unstable; urgency=medium
+ .
+   * Initial Release
+Checksums-Sha1:
+ ed5b8c401a4c8b6ae25ac4df402cf6452f6ea32f 977 fix-gdm_1.0.0-1.dsc
+ eef218cdd0b5d83a23eaa3ffd9f896493194f7ce 256 fix-gdm_1.0.0.orig.tar.xz
+ dafcb056ddd718fc70ef095687267b1afd248ffa 800 fix-gdm_1.0.0-1.debian.tar.xz
+ c96ca2a7f4c4df14a41863338faba0c0d80da844 4388 fix-gdm_1.0.0-1_source.buildinfo
+Checksums-Sha256:
+ 44e77110abfe957dec0e9cea1a36a9a3337618abf11b35a3d126db8b5c97df8d 977 fix-gdm_1.0.0-1.dsc
+ 002a54ac312649d3180f288040127c48491d31c3f77e30e2a8b4c2a718b2bc23 256 fix-gdm_1.0.0.orig.tar.xz
+ 9d7223530555951fa050cb6165372320e260e6b6f1e6661273484b9805f4efff 800 fix-gdm_1.0.0-1.debian.tar.xz
+ 3026fabb1b963f33b4bff5ad60643becd9d788bcbc882f139ba1e5daea815e36 4388 fix-gdm_1.0.0-1_source.buildinfo
+Files:
+ 1ac55a96288da408a14a829801b4a1d0 977 gnome optional fix-gdm_1.0.0-1.dsc
+ 3e33e2629155e1d985359b9d7f768cac 256 gnome optional fix-gdm_1.0.0.orig.tar.xz
+ 5d14a608e5a112d9613fd166bbca6fbb 800 gnome optional fix-gdm_1.0.0-1.debian.tar.xz
+ d1c878a9015efe66389e90e75811fb9a 4388 gnome optional fix-gdm_1.0.0-1_source.buildinfo
