@@ -3,14 +3,14 @@ Source: fix-gdm
 Architecture: source
 Version: 1.0.0-1
 Checksums-Md5:
- 1ac55a96288da408a14a829801b4a1d0 977 fix-gdm_1.0.0-1.dsc
+ 6313ba26722a273cb87003ab1a33bdda 977 fix-gdm_1.0.0-1.dsc
 Checksums-Sha1:
- ed5b8c401a4c8b6ae25ac4df402cf6452f6ea32f 977 fix-gdm_1.0.0-1.dsc
+ 28d4ac53397c39fe9fcc144299f4a736473cfa48 977 fix-gdm_1.0.0-1.dsc
 Checksums-Sha256:
- 44e77110abfe957dec0e9cea1a36a9a3337618abf11b35a3d126db8b5c97df8d 977 fix-gdm_1.0.0-1.dsc
+ 4cb7cab08607c8a0f43f28b71643a929292b31d26c3c2c69c9a20b5e0bd6eacd 977 fix-gdm_1.0.0-1.dsc
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Sat, 02 Oct 2021 15:40:26 +0000
+Build-Date: Sat, 02 Oct 2021 15:45:55 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-14),
  automake (= 1:1.16.3-2),
