@@ -1,6 +1,6 @@
  dpkg-buildpackage -us -uc -ui -i -d -S
 dpkg-buildpackage: info: source package fix-gdm
-dpkg-buildpackage: info: source version 1.0.0-1
+dpkg-buildpackage: info: source version 1.0.0-2
 dpkg-buildpackage: info: source distribution unstable
 dpkg-buildpackage: info: source changed by Package Store <kitsune.solar@gmail.com>
  dpkg-source -i --before-build .
@@ -11,16 +11,17 @@ dh clean
 dpkg-source: info: using source format '3.0 (quilt)'
 dpkg-source: info: building fix-gdm using existing ./fix-gdm_1.0.0.orig.tar.xz
 dpkg-source: warning: ignoring deletion of directory gdm.service.d
-dpkg-source: warning: ignoring deletion of file gdm.service.d/override.conf, use --include-removal to override
-dpkg-source: info: building fix-gdm in fix-gdm_1.0.0-1.debian.tar.xz
-dpkg-source: info: building fix-gdm in fix-gdm_1.0.0-1.dsc
+dpkg-source: warning: ignoring deletion of file gdm.service.d/fix-black-screen.conf, use --include-removal to override
+dpkg-source: info: building fix-gdm in fix-gdm_1.0.0-2.debian.tar.xz
+dpkg-source: info: building fix-gdm in fix-gdm_1.0.0-2.dsc
  dpkg-genbuildinfo --build=source
- dpkg-genchanges --build=source >../fix-gdm_1.0.0-1_source.changes
-dpkg-genchanges: info: including full source code in upload
+ dpkg-genchanges --build=source >../fix-gdm_1.0.0-2_source.changes
+dpkg-genchanges: info: not including original source code in upload
  dpkg-source -i --after-build .
-dpkg-buildpackage: info: full upload (original source is included)
-Now running lintian fix-gdm_1.0.0-1_source.changes ...
+dpkg-buildpackage: info: binary and diff upload (original source NOT included)
+Now running lintian fix-gdm_1.0.0-2_source.changes ...
 warning: running with root privileges is not recommended!
+E: fix-gdm source: latest-debian-changelog-entry-without-new-date
 W: fix-gdm source: maintainer-also-in-uploaders
 W: fix-gdm source: no-debian-copyright-in-source
 Finished running lintian.

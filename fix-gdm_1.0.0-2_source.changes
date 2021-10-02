@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sat, 02 Oct 2021 15:13:03 +0000
+Source: fix-gdm
+Architecture: source
+Version: 1.0.0-2
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ fix-gdm (1.0.0-2) unstable; urgency=medium
+ .
+   * Rename "override.conf" to "fix-black-screen.conf".
+Checksums-Sha1:
+ aaad53a81b6e9f0d7f018c18b5f1dad3a882c973 977 fix-gdm_1.0.0-2.dsc
+ 916bd9f3564b83a82c932aacaae5d5ddada14f68 836 fix-gdm_1.0.0-2.debian.tar.xz
+ 69a62ee3df352c4188e89603940685837ea3a3c8 4388 fix-gdm_1.0.0-2_source.buildinfo
+Checksums-Sha256:
+ ae280a8578d0b23bd104812113f36ed719af390320a9089fbb325f50512b63fc 977 fix-gdm_1.0.0-2.dsc
+ aab2bc6298c62e9c4f3e6aa7ff0e96c09253b0e03928ebd4d492a5d50d499404 836 fix-gdm_1.0.0-2.debian.tar.xz
+ 760f97a66f7a42b26bd531f4a572a8c1a98129fc6c62d5ccd2350ff87f6c03cd 4388 fix-gdm_1.0.0-2_source.buildinfo
+Files:
+ 8c659d4bda6f521737783142dc499c49 977 gnome optional fix-gdm_1.0.0-2.dsc
+ 5315a1df6424d57aad6fb51b52f0fc3a 836 gnome optional fix-gdm_1.0.0-2.debian.tar.xz
+ 934c1288138c0367b1ae078a228db7c8 4388 gnome optional fix-gdm_1.0.0-2_source.buildinfo
