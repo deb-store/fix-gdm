@@ -12,14 +12,14 @@ Changes:
  .
    * UPD: Rename "override.conf" to "fix-black-screen.conf".
 Checksums-Sha1:
- dbf0cb9e3684b4dadad0894f97474c9626d9b5e7 977 fix-gdm_1.0.0-2.dsc
+ e8eeae72edd78bd4b30ae70e4cc5baeea5e4a8ea 977 fix-gdm_1.0.0-2.dsc
  127ba2232b97d1b696556856d1e15b6d7819bac5 844 fix-gdm_1.0.0-2.debian.tar.xz
- d09ff3a0862c6e300c675287663898519b0e3eca 4388 fix-gdm_1.0.0-2_source.buildinfo
+ 9e2ce336fdc5376e3f42a003d77cf938137c55da 4581 fix-gdm_1.0.0-2_source.buildinfo
 Checksums-Sha256:
- d62bd3d290295ddce3cf1ac3fc1846b60c1bcdcaa766ab64d82359855633e86a 977 fix-gdm_1.0.0-2.dsc
+ 766cc628da0559cec9cb9655e6ddc527cb67026c21c646beda67e6a85e569ba0 977 fix-gdm_1.0.0-2.dsc
  4969143e899ef9da3185bf8f0c73c231c2e9a5da46501765c52d6229adfd6ac2 844 fix-gdm_1.0.0-2.debian.tar.xz
- e9ad65685f223b531dbc159609c4ad2def78bcda35a7cc67aa68a751457c6fbf 4388 fix-gdm_1.0.0-2_source.buildinfo
+ f8539f54993a43bafdeb52ec39db9996d26ed59cb845df45de64581ba58478b0 4581 fix-gdm_1.0.0-2_source.buildinfo
 Files:
- cc0cee21b1863e731e7e3345adcd81a4 977 gnome optional fix-gdm_1.0.0-2.dsc
+ b008689556c4a4128ac1feba533685ba 977 gnome optional fix-gdm_1.0.0-2.dsc
  b3c9ab2efbff185c2017c51078131fd8 844 gnome optional fix-gdm_1.0.0-2.debian.tar.xz
- 38a0f2c747b388c4066683b7b6f46af7 4388 gnome optional fix-gdm_1.0.0-2_source.buildinfo
+ f232b011523219f24a0280d393b4d0ef 4581 gnome optional fix-gdm_1.0.0-2_source.buildinfo
